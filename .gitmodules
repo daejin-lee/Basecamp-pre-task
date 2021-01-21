@@ -1,0 +1,9 @@
+[submodule "daejin-lee.github.io"]
+	path = daejin-lee.github.io
+	url = https://github.com/daejin-lee/daejin-lee.github.io
+[submodule "basecamp-spring-boot-tutorial"]
+	path = basecamp-spring-boot-tutorial
+	url = https://github.com/daejin-lee/basecamp-spring-boot-tutorial
+[submodule "guestbook"]
+	path = guestbook
+	url = https://github.com/daejin-lee/guestbook
